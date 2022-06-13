@@ -1,0 +1,7 @@
+C:\Users\Laboratorio\Desktop\examen rec\Examen-regularizacionPOO\Examen-regularizacionPOO\bin\Debug\Examen-regularizacionPOO.exe.config
+C:\Users\Laboratorio\Desktop\examen rec\Examen-regularizacionPOO\Examen-regularizacionPOO\bin\Debug\Examen-regularizacionPOO.exe
+C:\Users\Laboratorio\Desktop\examen rec\Examen-regularizacionPOO\Examen-regularizacionPOO\bin\Debug\Examen-regularizacionPOO.pdb
+C:\Users\Laboratorio\Desktop\examen rec\Examen-regularizacionPOO\Examen-regularizacionPOO\obj\Debug\Examen-regularizacionPOO.csproj.AssemblyReference.cache
+C:\Users\Laboratorio\Desktop\examen rec\Examen-regularizacionPOO\Examen-regularizacionPOO\obj\Debug\Examen-regularizacionPOO.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio\Desktop\examen rec\Examen-regularizacionPOO\Examen-regularizacionPOO\obj\Debug\Examen-regularizacionPOO.exe
+C:\Users\Laboratorio\Desktop\examen rec\Examen-regularizacionPOO\Examen-regularizacionPOO\obj\Debug\Examen-regularizacionPOO.pdb
